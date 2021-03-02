@@ -1,0 +1,15 @@
+{
+    "server":{
+        "host":"http://localhost:4000"
+    },
+    "pagination":{
+        "userList":{
+            "limit":2,
+            "offset":0
+        },
+        "friendsList":{
+            "limit":2,
+            "offset":0
+        }
+    }
+}
